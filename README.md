@@ -1,63 +1,63 @@
-# Actividad 6 - Tacho
+# Actividad 5
 
-Este repositorio contiene las evidencias y capturas de pantalla correspondientes a la Actividad 6.
+Este repositorio tiene las evidencias y capturas de pantalla correspondientes a la Act5
 
 ## Contenido de Evidencias
 
 ### Ejecución General
 * **Vista de la aplicación durante su ejecución:**
-  ![Ejecutando](evidencias/ejecutando.png)
+  ![Ejecutando](evidencias/ejecucion.png)
 
 ### Pruebas de Casos (Éxito y Fallo)
 
 * **Prueba 1:**
   * **Éxito:**
-    ![F1 Exito](evidencias/F1Exito.png)
+    ![P1 Exito](evidencias/P1Exito.png)
   * **Fallo:**
-    ![F1 Fallo](evidencias/F1Fallo.png)
+    ![P1 Fallo](evidencias/P2Fallida.png)
 
 * **Prueba 2:**
   * **Éxito:**
-    ![F2 Exito](evidencias/F2Exito.png)
+    ![P2 Exito](evidencias/P2Exito.png)
   * **Fallo:**
-    ![F2 Fallo](evidencias/F2Fallo.png)
+    ![P2 Fallo](evidencias/P2Fallida.png)
 
 * **Prueba 3:**
   * **Éxito:**
-    ![F3 Exito](evidencias/F3Exito.png)
+    ![P3 Exito](evidencias/P3Exito.png)
   * **Fallo:**
-    ![F3 Fallo](evidencias/F3Fallo.png)
+    ![P3 Fallo](evidencias/P3Fallida.png)
 
 * **Prueba 4:**
   * **Éxito:**
-    ![F4 Exito](evidencias/F4Exito.png)
+    ![P4 Exito](evidencias/P4Exito.png)
   * **Fallo:**
-    ![F4 Fallo](evidencias/F4Fallo.png)
+    ![P4 Fallo](evidencias/P4Fallida.png)
 
 * **Prueba 5:**
   * **Éxito:**
-    ![F5 Exito](evidencias/F5Exito.png)
+    ![P5 Exito](evidencias/P5Exito.png)
   * **Fallo:**
-    ![F5 Fallo](evidencias/F5Fallo.png)
+    ![F5 Fallo](evidencias/P5Fallida.png)
 
 * **Prueba 6:**
   * **Éxito:**
-    ![F6 Exito](evidencias/F6Exito.png)
+    ![P6 Exito](evidencias/P6Exito.png)
   * **Fallo:**
-    ![F6 Fallo](evidencias/F6Fallo.png)
+    ![P6 Fallo](evidencias/P6Fallida.png)
 
 * **Prueba 7:**
   * **Éxito:**
-    ![F7 Exito](evidencias/F7Exito.png)
+    ![P7 Exito](evidencias/P7Exito.png)
   * **Fallo:**
-    ![F7 Fallo](evidencias/F7Fallo.png)
+    ![P7 Fallo](evidencias/O7Fallida.png)
 
 * **Prueba 8:**
   * **Éxito:**
-    ![F8 Exito](evidencias/F8Exito.png)
+    ![F8 Exito](evidencias/P8Exito.png)
   * **Fallo:**
-    ![F8 Fallo](evidencias/F8Fallo.png)
+    ![F8 Fallo](evidencias/P8Fallida.png)
 
 ### Integración
 * **Prueba de integración del sistema:**
-  ![Prueba de Integración](evidencias/PIntegracion.png)
+  ![Prueba de Integración](evidencias/PruebaIntegracion.png)
